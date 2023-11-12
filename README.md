@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # CVsite
-First attempt at a repository for my cv website
+This is an educational personal project for myself where I build my own CV web app
 =======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
